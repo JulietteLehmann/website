@@ -1,0 +1,10 @@
+@import url("components/footer.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+body {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 20px; 
+    background-color: #80a2e8; 
+}
